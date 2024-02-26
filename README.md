@@ -7,7 +7,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 반갑습니다! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 제 이름은 채형진 입니다.<br></li></li>대학교 4학년(재학) .<br></li></li>배울게 많은 미래의 엔지니어입니다.</li></li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 😎 제 이름은 채형진 입니다.<br></li></li>👻 대학교 4학년(재학) <br></li></li> 🧑‍💻 배울게 많은 미래의 엔지니어입니다.</li></li> </div> <br> </li></li> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
