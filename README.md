@@ -17,8 +17,4 @@
          <a href=https://www.notion.so/4b172ec7d8b54a2f8df01e65a203a97b> 
  
           
-         </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    
 
