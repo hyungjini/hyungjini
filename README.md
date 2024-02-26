@@ -12,9 +12,8 @@
                            <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=Windows 10&logoColor=white"> 
                            <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
                            <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-        
     </div>
-   <div style="text-align: left;">
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:hyungjin0706@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hyungjin0706@gmail.com"> </a>
          <a href=https://www.notion.so/4b172ec7d8b54a2f8df01e65a203a97b> 
