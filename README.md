@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ceeaed,100:5baee1&height=180&text=Hi%20there,%20i'm%20Hyungjin%20Chae&animation=&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ceeaed,100:5baee1&height=180&text=Hi%20there,%20i'm%20HyungJin%20Chae&animation=&fontColor=000000&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 반갑습니다! </h2>  
