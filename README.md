@@ -2,7 +2,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 반갑습니다! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 😎 제 이름은 채형진 입니다.<br></li></li>👻 대학교 4학년(재학) <br></li></li> 🧑‍💻 주로, 생성형 Ai의 LLM과 관련하여 공부를 하고 있습니다.</li></li> </div> <br> </li></li> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 😎 제 이름은 채형진 입니다.<br></li></li> 🧑‍💻 주로, 생성형 Ai의 LLM과 관련하여 공부를 하고 있습니다.</li></li> </div> <br> </li></li> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 STACKS </h2> <br> 
